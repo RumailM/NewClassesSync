@@ -11,5 +11,5 @@ The script derives user input from a provided csv file. It loops through all the
 
 ## Running the script
 Make sure that the provided template csv is in the same directory as the script. Change the number of classes to sync based on what you want. Replace the netid with yours. Copy and paste the dav sequences from newclasses for each class that you want to sync. You can get this from the resources tab after clicking transfer files. 
-![Screenshot](images/davseq.png)
+![Screenshot](https://github.com/RumailM/NewClassesSync/blob/master/Images/davseq.png)
 Finally, for each class that you want to sync input the absolute directory that you would like to download and sync the files to.
