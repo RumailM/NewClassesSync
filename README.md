@@ -1,6 +1,6 @@
 # NewClassesSync
 ## Introduction
-Newclasses, the class portal used at New York University powered by [Sakai](https://www.sakailms.org/accessibility), allows file transfer through the WebDAV protocol. This repository contains a script that takes utilizes [Duck CLI](https://duck.sh/) that establishes a WebDAV link in order to automatically download resources from the site.  
+Newclasses, the class portal used at New York University powered by [Sakai](https://www.sakailms.org/accessibility), allows file transfer through the WebDAV protocol. This repository contains a script that utilizes [Duck CLI](https://duck.sh/) that establishes a WebDAV link in order to automatically download resources from the site.  
 
 ## System Prerequisites
 *	Duck CLI, install the version for your OS: https://duck.sh
